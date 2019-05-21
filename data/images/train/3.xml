@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Tornillo</name>
+		<name>Teclado</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>69</xmin>
-			<ymin>212</ymin>
-			<xmax>438</xmax>
-			<ymax>316</ymax>
+			<xmin>20</xmin>
+			<ymin>154</ymin>
+			<xmax>491</xmax>
+			<ymax>378</ymax>
 		</bndbox>
 	</object>
 </annotation>
